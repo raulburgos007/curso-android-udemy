@@ -1,2 +1,2 @@
 # curso-android-udemy
-Programas de practicay notas del curso de udemy referente a android
+Programas de practicas y notas del curso de udemy referente a android
